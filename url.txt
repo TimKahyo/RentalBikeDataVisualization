@@ -1,1 +1,3 @@
-https://timothy-mulya-cahyana-rb-data-visualization.streamlit.app/
+streamlit link: https://timothy-mulya-cahyana-rb-data-visualization.streamlit.app/
+
+github link: https://github.com/TimKahyo/RentalBikeDataVisualization
