@@ -8,7 +8,7 @@ st.title("Bike Rentals Data Visualization")
 st.subheader("Loading Dataset")
 
 # path to my data
-csv_file_path = "C:/Users/Mulya Cahyana/Downloads/submission/dashboard/merged.csv"
+csv_file_path = "https://github.com/TimKahyo/RentalBikeDataVisualization/blob/main/dashboard/merged.csv"
 
 # load dataset
 merged_df = pd.read_csv(csv_file_path)
